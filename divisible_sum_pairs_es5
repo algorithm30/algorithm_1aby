@@ -22,11 +22,11 @@ function readLine() {
 
 function divisibleSumPairs(n, k, ar) {
     // Complete this function
-    var countDiv = 0;
+    var countDiv = 0; // 리턴할 합계
     
-    for(var i=0; i<ar.length; i++){
-        for(var j=i+1; j<ar.length; j++){          
-            if((ar[i]+ar[j])%k == 0){
+    for(var i=0; i<ar.length; i++){ //i순서 루프
+        for(var j=i+1; j<ar.length; j++){  //j순서 루프 (i+1)   
+            if((ar[i]+ar[j])%k == 0){ //배열의 중복되지 않은 순서끼리 더하여 k와 나눌시 나머지가 0일경우 카운트
                 countDiv += 1;
             }
         }   
