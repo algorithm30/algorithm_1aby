@@ -43,22 +43,22 @@ Lang - javascript(node)
 1. Apple and Orange 
 
 Site URL - https://www.hackerrank.com/challenges/apple-and-orange/problem 
-Lang - java 8 
+Lang - javascript(node)
 
 2. Kangaroo 
 
 Site URL - https://www.hackerrank.com/challenges/kangaroo/problem 
-Lang - C# 
+Lang - javascript(node)
 
 3. Between Two Sets 
 
 Site URL - https://www.hackerrank.com/challenges/between-two-sets/problem 
-Lang - 
+Lang - javascript(node)
 
 4. Forming a Magic Square
 
 Site URL - https://www.hackerrank.com/challenges/magic-square-forming/problem 
-Lang - 
+Lang - javascript(node)
 
 
 
@@ -67,7 +67,7 @@ Lang -
 1. Divisible Sum Pairs 
 
 Site URL - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem 
-Lang - java 8 
+Lang - javascript(node) 
 
 2. Service Lane 
 
@@ -77,7 +77,7 @@ Lang - javascript(node)
 3. Bon Appétit 
 
 Site URL - https://www.hackerrank.com/challenges/bon-appetit/problem 
-Lang - C# 
+Lang - javascript(node)
 
 4. Migratory Birds 
 
