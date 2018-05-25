@@ -120,3 +120,41 @@ Lang -
 
 Site URL - https://www.acmicpc.net/problem/1646 
 Lang - 
+
+
+
+[008] 
+
+1. Picking Numbers 
+
+Site URL - https://www.hackerrank.com/challenges/picking-numbers/problem 
+Lang - 
+
+2. Chocolate Feast 
+
+Site URL - https://www.hackerrank.com/challenges/chocolate-feast/problem 
+Lang - 
+
+3. 쿼드 트리 뒤집기 (X)
+
+Site URL - https://algospot.com/judge/problem/read/QUADTREE 
+Lang - 
+
+
+
+[009] 
+
+1. The Power Sum 
+
+Site URL - https://www.hackerrank.com/challenges/the-power-sum/problem 
+Lang - 
+
+2. Append and Delete  
+
+Site URL - https://www.hackerrank.com/challenges/append-and-delete/problem 
+Lang - 
+
+3. 울타리 잘라내기 (X) 
+
+Site URL - https://algospot.com/judge/problem/read/FENCE 
+Lang - 
