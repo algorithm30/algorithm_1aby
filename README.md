@@ -128,7 +128,7 @@ Lang -
 1. Picking Numbers 
 
 Site URL - https://www.hackerrank.com/challenges/picking-numbers/problem 
-Lang - 
+Lang - javascript(node) 
 
 2. Chocolate Feast 
 
@@ -157,4 +157,23 @@ Lang -
 3. 울타리 잘라내기 (X) 
 
 Site URL - https://algospot.com/judge/problem/read/FENCE 
+Lang - 
+
+
+
+[010] 
+
+1. Strange Counter (X) 
+
+Site URL - https://www.hackerrank.com/challenges/strange-code/problem 
+Lang - 
+
+2. Minimum Distances (X) 
+
+Site URL - https://www.hackerrank.com/challenges/minimum-distances/problem 
+Lang - 
+
+3. 팬미팅 (X) 
+
+Site URL - https://algospot.com/judge/problem/read/FANMEETING 
 Lang - 
