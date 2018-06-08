@@ -177,3 +177,22 @@ Lang -
 
 Site URL - https://algospot.com/judge/problem/read/FANMEETING 
 Lang - 
+
+
+
+[011] 
+
+1. Lisa's Workbook (X) 
+
+Site URL - https://www.hackerrank.com/challenges/lisa-workbook/problem 
+Lang - 
+
+2. Beautiful Triplets (X) 
+
+Site URL - https://www.hackerrank.com/challenges/beautiful-triplets/problem 
+Lang - 
+
+3. Angry Professor (X) 
+
+Site URL - https://www.hackerrank.com/challenges/angry-professor/problem 
+Lang - 
