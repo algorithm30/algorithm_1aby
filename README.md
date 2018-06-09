@@ -55,7 +55,7 @@ Lang - javascript(node)
 Site URL - https://www.hackerrank.com/challenges/between-two-sets/problem 
 Lang - javascript(node)
 
-4. Forming a Magic Square
+4. Forming a Magic Square (X)
 
 Site URL - https://www.hackerrank.com/challenges/magic-square-forming/problem 
 Lang - javascript(node)
@@ -163,15 +163,15 @@ Lang -
 
 [010] 
 
-1. Strange Counter (X) 
+1. Strange Counter 
 
 Site URL - https://www.hackerrank.com/challenges/strange-code/problem 
-Lang - 
+Lang - javascript(node)
 
-2. Minimum Distances (X) 
+2. Minimum Distances
 
 Site URL - https://www.hackerrank.com/challenges/minimum-distances/problem 
-Lang - 
+Lang - javascript(node)
 
 3. 팬미팅 (X) 
 
@@ -182,17 +182,17 @@ Lang -
 
 [011] 
 
-1. Lisa's Workbook (X) 
+1. Lisa's Workbook  
 
 Site URL - https://www.hackerrank.com/challenges/lisa-workbook/problem 
-Lang - 
+Lang - javascript(node)
 
-2. Beautiful Triplets (X) 
+2. Beautiful Triplets  
 
 Site URL - https://www.hackerrank.com/challenges/beautiful-triplets/problem 
-Lang - 
+Lang - javascript(node)
 
-3. Angry Professor (X) 
+3. Angry Professor  
 
 Site URL - https://www.hackerrank.com/challenges/angry-professor/problem 
-Lang - 
+Lang - javascript(node)
