@@ -196,3 +196,17 @@ Lang - javascript(node)
 
 Site URL - https://www.hackerrank.com/challenges/angry-professor/problem 
 Lang - javascript(node)
+
+
+
+[012]
+
+1. Extra Long Factorials 
+
+Site URL - https://www.hackerrank.com/challenges/extra-long-factorials/problem 
+Lang - 
+
+2. Manasa and Stones 
+
+Site URL - https://www.hackerrank.com/challenges/manasa-and-stones/problem 
+Lang - 
