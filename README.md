@@ -204,9 +204,9 @@ Lang - javascript(node)
 1. Extra Long Factorials 
 
 Site URL - https://www.hackerrank.com/challenges/extra-long-factorials/problem 
-Lang - 
+Lang - javascript(node)
 
 2. Manasa and Stones 
 
 Site URL - https://www.hackerrank.com/challenges/manasa-and-stones/problem 
-Lang - 
+Lang - javascript(node)
