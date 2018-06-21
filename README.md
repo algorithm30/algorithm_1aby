@@ -210,3 +210,27 @@ Lang - javascript(node)
 
 Site URL - https://www.hackerrank.com/challenges/manasa-and-stones/problem 
 Lang - javascript(node)
+
+
+
+[013] 
+
+1. Save the Prisoner (X) 
+
+Site URL - https://www.hackerrank.com/challenges/save-the-prisoner/problem 
+Lang - javascript(node)
+
+2. Stock Maximize (X) 
+
+Site URL - https://www.hackerrank.com/challenges/stockmax/problem 
+Lang - javascript(node)
+
+3. Strong Password (X) 
+
+Site URL - https://www.hackerrank.com/challenges/strong-password/problem 
+Lang - javascript(node)
+
+4. Nimble Game (X) 
+
+Site URL - https://www.hackerrank.com/challenges/nimble-game-1/problem 
+Lang - javascript(node)
