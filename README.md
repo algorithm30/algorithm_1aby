@@ -234,3 +234,21 @@ Lang - javascript(node)
 
 Site URL - https://www.hackerrank.com/challenges/nimble-game-1/problem 
 Lang - javascript(node)
+
+
+[014] 
+
+1. Weighted Uniform Strings (X) 
+
+Site URL - https://www.hackerrank.com/challenges/weighted-uniform-string/problem 
+Lang - javascript(node)
+
+2. Fibonacci Modified (X) 
+
+Site URL - https://www.hackerrank.com/challenges/fibonacci-modified/problem 
+Lang - javascript(node)
+
+3. Encryption (X) 
+
+Site URL - https://www.hackerrank.com/challenges/encryption/problem 
+Lang - javascript(node)
