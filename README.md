@@ -215,7 +215,7 @@ Lang - javascript(node)
 
 [013] 
 
-1. Save the Prisoner (X) 
+1. Save the Prisoner 
 
 Site URL - https://www.hackerrank.com/challenges/save-the-prisoner/problem 
 Lang - javascript(node)
@@ -225,7 +225,7 @@ Lang - javascript(node)
 Site URL - https://www.hackerrank.com/challenges/stockmax/problem 
 Lang - javascript(node)
 
-3. Strong Password (X) 
+3. Strong Password 
 
 Site URL - https://www.hackerrank.com/challenges/strong-password/problem 
 Lang - javascript(node)
@@ -238,7 +238,7 @@ Lang - javascript(node)
 
 [014] 
 
-1. Weighted Uniform Strings (X) 
+1. Weighted Uniform Strings 
 
 Site URL - https://www.hackerrank.com/challenges/weighted-uniform-string/problem 
 Lang - javascript(node)
@@ -248,7 +248,7 @@ Lang - javascript(node)
 Site URL - https://www.hackerrank.com/challenges/fibonacci-modified/problem 
 Lang - javascript(node)
 
-3. Encryption (X) 
+3. Encryption
 
 Site URL - https://www.hackerrank.com/challenges/encryption/problem 
 Lang - javascript(node)
