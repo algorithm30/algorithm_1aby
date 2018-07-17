@@ -252,3 +252,31 @@ Lang - javascript(node)
 
 Site URL - https://www.hackerrank.com/challenges/encryption/problem 
 Lang - javascript(node)
+
+
+
+[015] 
+
+1. The Time in Words (X) 
+
+Site URL - https://www.hackerrank.com/challenges/the-time-in-words/problem 
+Lang - javascript(node)
+
+2. Game of Thrones - I (X) 
+
+Site URL - https://www.hackerrank.com/challenges/game-of-thrones/problem 
+Lang - javascript(node)
+
+
+
+[016] 
+
+1. Maximizing XOR (X) 
+
+Site URL - https://www.hackerrank.com/challenges/maximizing-xor/problem 
+Lang - javascript(node)
+
+2. Bigger is Greater (X) 
+
+Site URL - https://www.hackerrank.com/challenges/bigger-is-greater/problem 
+Lang - javascript(node)
