@@ -215,7 +215,7 @@ Lang - javascript(node)
 
 [013] 
 
-1. Save the Prisoner (X) 
+1. Save the Prisoner 
 
 Site URL - https://www.hackerrank.com/challenges/save-the-prisoner/problem 
 Lang - javascript(node)
@@ -225,7 +225,7 @@ Lang - javascript(node)
 Site URL - https://www.hackerrank.com/challenges/stockmax/problem 
 Lang - javascript(node)
 
-3. Strong Password (X) 
+3. Strong Password 
 
 Site URL - https://www.hackerrank.com/challenges/strong-password/problem 
 Lang - javascript(node)
@@ -238,7 +238,7 @@ Lang - javascript(node)
 
 [014] 
 
-1. Weighted Uniform Strings (X) 
+1. Weighted Uniform Strings 
 
 Site URL - https://www.hackerrank.com/challenges/weighted-uniform-string/problem 
 Lang - javascript(node)
@@ -248,7 +248,68 @@ Lang - javascript(node)
 Site URL - https://www.hackerrank.com/challenges/fibonacci-modified/problem 
 Lang - javascript(node)
 
-3. Encryption (X) 
+3. Encryption
 
 Site URL - https://www.hackerrank.com/challenges/encryption/problem 
 Lang - javascript(node)
+
+
+
+[015] 
+
+1. The Time in Words (X) 
+
+Site URL - https://www.hackerrank.com/challenges/the-time-in-words/problem 
+Lang - javascript(node)
+
+2. Game of Thrones - I (X) 
+
+Site URL - https://www.hackerrank.com/challenges/game-of-thrones/problem 
+Lang - javascript(node)
+
+
+
+[016] 
+
+1. Maximizing XOR (X) 
+
+Site URL - https://www.hackerrank.com/challenges/maximizing-xor/problem 
+Lang - javascript(node)
+
+2. Bigger is Greater (X) 
+
+Site URL - https://www.hackerrank.com/challenges/bigger-is-greater/problem 
+Lang - javascript(node)
+
+
+[017] 
+
+1. Utopian Tree (X) 
+
+Site URL - https://www.hackerrank.com/challenges/utopian-tree/problem 
+Lang - 
+
+2. Circular Array Rotation (X) 
+
+Site URL - https://www.hackerrank.com/challenges/circular-array-rotation/problem 
+Lang - 
+
+
+
+
+[018] 
+
+1. Jumping on the Clouds (X) 
+
+Site URL - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem 
+Lang - 
+
+2. Cats and a Mouse (X) 
+
+Site URL - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem 
+Lang - 
+
+3. HackerRank in a String! (X) 
+
+Site URL - https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem 
+Lang - 
