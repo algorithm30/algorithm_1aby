@@ -280,3 +280,36 @@ Lang - javascript(node)
 
 Site URL - https://www.hackerrank.com/challenges/bigger-is-greater/problem 
 Lang - javascript(node)
+
+
+[017] 
+
+1. Utopian Tree (X) 
+
+Site URL - https://www.hackerrank.com/challenges/utopian-tree/problem 
+Lang - 
+
+2. Circular Array Rotation (X) 
+
+Site URL - https://www.hackerrank.com/challenges/circular-array-rotation/problem 
+Lang - 
+
+
+
+
+[018] 
+
+1. Jumping on the Clouds (X) 
+
+Site URL - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem 
+Lang - 
+
+2. Cats and a Mouse (X) 
+
+Site URL - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem 
+Lang - 
+
+3. HackerRank in a String! (X) 
+
+Site URL - https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem 
+Lang - 
