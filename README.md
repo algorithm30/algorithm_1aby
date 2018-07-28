@@ -243,7 +243,7 @@ Lang - javascript(node)
 Site URL - https://www.hackerrank.com/challenges/weighted-uniform-string/problem 
 Lang - javascript(node)
 
-2. Fibonacci Modified (X) 
+2. Fibonacci Modified 
 
 Site URL - https://www.hackerrank.com/challenges/fibonacci-modified/problem 
 Lang - javascript(node)
@@ -262,7 +262,7 @@ Lang - javascript(node)
 Site URL - https://www.hackerrank.com/challenges/the-time-in-words/problem 
 Lang - javascript(node)
 
-2. Game of Thrones - I (X) 
+2. Game of Thrones - I 
 
 Site URL - https://www.hackerrank.com/challenges/game-of-thrones/problem 
 Lang - javascript(node)
@@ -271,7 +271,7 @@ Lang - javascript(node)
 
 [016] 
 
-1. Maximizing XOR (X) 
+1. Maximizing XOR 
 
 Site URL - https://www.hackerrank.com/challenges/maximizing-xor/problem 
 Lang - javascript(node)
@@ -284,15 +284,15 @@ Lang - javascript(node)
 
 [017] 
 
-1. Utopian Tree (X) 
+1. Utopian Tree 
 
 Site URL - https://www.hackerrank.com/challenges/utopian-tree/problem 
-Lang - 
+Lang - javascript(node)
 
-2. Circular Array Rotation (X) 
+2. Circular Array Rotation 
 
 Site URL - https://www.hackerrank.com/challenges/circular-array-rotation/problem 
-Lang - 
+Lang - javascript(node)
 
 
 
