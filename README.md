@@ -299,17 +299,35 @@ Lang - javascript(node)
 
 [018] 
 
-1. Jumping on the Clouds (X) 
+1. Jumping on the Clouds 
 
 Site URL - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem 
-Lang - 
+Lang - javascript(node)
 
-2. Cats and a Mouse (X) 
+2. Cats and a Mouse 
 
 Site URL - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem 
-Lang - 
+Lang - javascript(node)
 
-3. HackerRank in a String! (X) 
+3. HackerRank in a String! 
 
 Site URL - https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem 
+Lang - javascript(node)
+
+
+[019] 
+
+1. Sock Merchant (X) 
+
+Site URL - https://www.hackerrank.com/challenges/sock-merchant/problem 
+Lang - 
+
+2. The Bomberman	(X) 
+
+Site URL - https://www.hackerrank.com/challenges/bomber-man/problem 
+Lang - 
+
+3. 3D Surface Area (X) 
+
+Site URL - https://www.hackerrank.com/challenges/3d-surface-area/problem 
 Lang - 
