@@ -243,7 +243,7 @@ Lang - javascript(node)
 Site URL - https://www.hackerrank.com/challenges/weighted-uniform-string/problem 
 Lang - javascript(node)
 
-2. Fibonacci Modified (X) 
+2. Fibonacci Modified 
 
 Site URL - https://www.hackerrank.com/challenges/fibonacci-modified/problem 
 Lang - javascript(node)
@@ -262,7 +262,7 @@ Lang - javascript(node)
 Site URL - https://www.hackerrank.com/challenges/the-time-in-words/problem 
 Lang - javascript(node)
 
-2. Game of Thrones - I (X) 
+2. Game of Thrones - I 
 
 Site URL - https://www.hackerrank.com/challenges/game-of-thrones/problem 
 Lang - javascript(node)
@@ -271,7 +271,7 @@ Lang - javascript(node)
 
 [016] 
 
-1. Maximizing XOR (X) 
+1. Maximizing XOR 
 
 Site URL - https://www.hackerrank.com/challenges/maximizing-xor/problem 
 Lang - javascript(node)
@@ -284,32 +284,114 @@ Lang - javascript(node)
 
 [017] 
 
-1. Utopian Tree (X) 
+1. Utopian Tree 
 
 Site URL - https://www.hackerrank.com/challenges/utopian-tree/problem 
-Lang - 
+Lang - javascript(node)
 
-2. Circular Array Rotation (X) 
+2. Circular Array Rotation 
 
 Site URL - https://www.hackerrank.com/challenges/circular-array-rotation/problem 
-Lang - 
+Lang - javascript(node)
 
 
 
 
 [018] 
 
-1. Jumping on the Clouds (X) 
+1. Jumping on the Clouds 
 
 Site URL - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem 
-Lang - 
+Lang - javascript(node)
 
-2. Cats and a Mouse (X) 
+2. Cats and a Mouse 
 
 Site URL - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem 
-Lang - 
+Lang - javascript(node)
 
-3. HackerRank in a String! (X) 
+3. HackerRank in a String! 
 
 Site URL - https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem 
+Lang - javascript(node)
+
+
+[019] 
+
+1. Sock Merchant (X) 
+
+Site URL - https://www.hackerrank.com/challenges/sock-merchant/problem 
+Lang - 
+
+2. The Bomberman	(X) 
+
+Site URL - https://www.hackerrank.com/challenges/bomber-man/problem 
+Lang - 
+
+3. 3D Surface Area (X) 
+
+Site URL - https://www.hackerrank.com/challenges/3d-surface-area/problem 
+Lang - 
+
+
+
+[020] 
+
+1. Maximum Palindromes (X)	 
+
+Site URL - https://www.hackerrank.com/challenges/maximum-palindromes/problem 
+Lang - 
+
+2. Sherlock and Anagrams (X) 
+
+Site URL - https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem 
+Lang - 
+
+3. Beautiful Days at the Movie (X) 
+
+Site URL - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem 
+Lang - 
+
+
+
+
+[021] 
+
+1. The Hurdle Race (X)	 
+
+Site URL - https://www.hackerrank.com/challenges/the-hurdle-race/problem 
+Lang - 
+
+2. Organizing Containers of Balls (X) 
+
+Site URL - https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem 
+Lang - 
+
+3. Almost Sorted (X) 
+
+Site URL - https://www.hackerrank.com/challenges/almost-sorted/problem 
+Lang - 
+
+4. Jumping on the Clouds (X) 
+
+Site URL - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem 
+Lang - 
+
+
+
+
+[022] 
+
+1. Viral Advertising (X)	 
+
+Site URL - https://www.hackerrank.com/challenges/strange-advertising/problem 
+Lang - 
+
+2. Absolute Permutation (X) 
+
+Site URL - https://www.hackerrank.com/challenges/absolute-permutation/problem 
+Lang - 
+
+3. CamelCase (X) 
+
+Site URL - https://www.hackerrank.com/challenges/camelcase/problem 
 Lang - 
