@@ -317,10 +317,10 @@ Lang - javascript(node)
 
 [019] 
 
-1. Sock Merchant (X) 
+1. Sock Merchant  
 
 Site URL - https://www.hackerrank.com/challenges/sock-merchant/problem 
-Lang - 
+Lang - Lang - javascript(nod
 
 2. The Bomberman	(X) 
 
@@ -346,20 +346,20 @@ Lang -
 Site URL - https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem 
 Lang - 
 
-3. Beautiful Days at the Movie (X) 
+3. Beautiful Days at the Movie 
 
 Site URL - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem 
-Lang - 
+Lang - Lang - javascript(node)
 
 
 
 
 [021] 
 
-1. The Hurdle Race (X)	 
+1. The Hurdle Race 
 
 Site URL - https://www.hackerrank.com/challenges/the-hurdle-race/problem 
-Lang - 
+Lang - Lang - javascript(node)
 
 2. Organizing Containers of Balls (X) 
 
@@ -371,27 +371,27 @@ Lang -
 Site URL - https://www.hackerrank.com/challenges/almost-sorted/problem 
 Lang - 
 
-4. Jumping on the Clouds (X) 
+4. Jumping on the Clouds 
 
 Site URL - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem 
-Lang - 
+Lang - Lang - javascript(node)
 
 
 
 
 [022] 
 
-1. Viral Advertising (X)	 
+1. Viral Advertising  
 
 Site URL - https://www.hackerrank.com/challenges/strange-advertising/problem 
-Lang - 
+Lang - Lang - javascript(node)
 
 2. Absolute Permutation (X) 
 
 Site URL - https://www.hackerrank.com/challenges/absolute-permutation/problem 
 Lang - 
 
-3. CamelCase (X) 
+3. CamelCase 
 
 Site URL - https://www.hackerrank.com/challenges/camelcase/problem 
-Lang - 
+Lang - Lang - javascript(node)
