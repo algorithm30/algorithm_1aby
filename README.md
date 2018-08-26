@@ -331,3 +331,67 @@ Lang -
 
 Site URL - https://www.hackerrank.com/challenges/3d-surface-area/problem 
 Lang - 
+
+
+
+[020] 
+
+1. Maximum Palindromes (X)	 
+
+Site URL - https://www.hackerrank.com/challenges/maximum-palindromes/problem 
+Lang - 
+
+2. Sherlock and Anagrams (X) 
+
+Site URL - https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem 
+Lang - 
+
+3. Beautiful Days at the Movie (X) 
+
+Site URL - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem 
+Lang - 
+
+
+
+
+[021] 
+
+1. The Hurdle Race (X)	 
+
+Site URL - https://www.hackerrank.com/challenges/the-hurdle-race/problem 
+Lang - 
+
+2. Organizing Containers of Balls (X) 
+
+Site URL - https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem 
+Lang - 
+
+3. Almost Sorted (X) 
+
+Site URL - https://www.hackerrank.com/challenges/almost-sorted/problem 
+Lang - 
+
+4. Jumping on the Clouds (X) 
+
+Site URL - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem 
+Lang - 
+
+
+
+
+[022] 
+
+1. Viral Advertising (X)	 
+
+Site URL - https://www.hackerrank.com/challenges/strange-advertising/problem 
+Lang - 
+
+2. Absolute Permutation (X) 
+
+Site URL - https://www.hackerrank.com/challenges/absolute-permutation/problem 
+Lang - 
+
+3. CamelCase (X) 
+
+Site URL - https://www.hackerrank.com/challenges/camelcase/problem 
+Lang - 
